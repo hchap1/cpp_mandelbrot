@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/hchap/dev/cpp_mandelbrot/build/cmake_install.cmake",
+		"/Users/hchap/dev/cpp_mandelbrot/build/extern/glfw/cmake_install.cmake",
+		"/Users/hchap/dev/cpp_mandelbrot/build/extern/glfw/src/cmake_install.cmake",
+		"/Users/hchap/dev/cpp_mandelbrot/build/extern/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
