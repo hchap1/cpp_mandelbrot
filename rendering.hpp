@@ -54,6 +54,10 @@ class RenderLayer {
 			glDrawArrays(GL_TRIANGLES, 0, this -> triangleCount * 3);
 		}
 
+		void setFloat(const char* uniform, float value) {
+			this -> shader.setFloat(uniform, value);
+		}
+
 	private:
 		unsigned int vao;
 		unsigned int vbo;

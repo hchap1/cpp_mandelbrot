@@ -20,7 +20,14 @@ int main() {
 
 	test.set_vertices(vertices, 2);
 
+	float x = 0.0f;
+	float y = 0.0f;
+
 	while (window.running()) {
+
+		test.setFloat("x", x);
+		test.setFloat("y", y);
+
 		window.clear_screen(135, 206, 235);
 		test.draw();
 		window.update();

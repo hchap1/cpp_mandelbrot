@@ -40,6 +40,8 @@ class Window {
 			glfwSetWindowUserPointer(window, this);
 			glViewport(0, 0, width, height);
 
+			glfwSwapInterval(1);
+
 			const GLubyte* version = glGetString(GL_VERSION);
 			std::cout << "OpenGL version: " << version << std::endl;
 		}
@@ -56,6 +58,10 @@ class Window {
 		void update() {
 			glfwSwapBuffers(this -> window);
 			glfwPollEvents();
+		}
+
+		bool isPressed(int key) {
+			return glfwGetKey(this -> window, key);
 		}
 
 	private:

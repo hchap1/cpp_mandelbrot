@@ -89,6 +89,10 @@ class Shader {
 			glUseProgram(this -> shaderID);
 		}
 
+		void setFloat(const char* name, float value) {
+			glUniform1f(glGetUniformLocation(this -> shaderID, name), value);
+		}
+
 	private:
 		unsigned int shaderID;
 };
