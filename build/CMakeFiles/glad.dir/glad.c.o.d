@@ -56,7 +56,7 @@ CMakeFiles/glad.dir/glad.c.o: /Users/hchap/dev/cpp_mandelbrot/glad.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_sigset_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_uid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/resource.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_types/_uint8_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_types/_uint16_t.h \
@@ -93,4 +93,4 @@ CMakeFiles/glad.dir/glad.c.o: /Users/hchap/dev/cpp_mandelbrot/glad.c \
   /Users/hchap/dev/cpp_mandelbrot/include/glad/glad.h \
   /Users/hchap/dev/cpp_mandelbrot/include/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/dlfcn.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h

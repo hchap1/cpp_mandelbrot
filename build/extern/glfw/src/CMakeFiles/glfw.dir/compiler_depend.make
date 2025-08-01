@@ -1406,26 +1406,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o: /Users/hchap/dev/cpp_mandelb
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_joystick.m \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h \
@@ -2832,26 +2832,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: /Users/hchap/dev/cpp_man
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_monitor.m \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h \
@@ -4264,26 +4264,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o: /Users/hchap/dev/cpp_mand
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_time.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -5095,26 +5095,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o: /Users/hchap/dev/cpp_mandelb
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_window.m \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h \
@@ -6520,26 +6520,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o: /Users/hchap/dev/cpp_mande
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/context.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/context.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -7350,26 +7350,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/context.c.o: /Users/hchap/dev/cpp_mandelbrot
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/egl_context.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -8180,26 +8180,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o: /Users/hchap/dev/cpp_mandel
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/init.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/init.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -9010,26 +9010,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/init.c.o: /Users/hchap/dev/cpp_mandelbrot/ex
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/input.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/input.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -9841,26 +9841,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/input.c.o: /Users/hchap/dev/cpp_mandelbrot/e
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/monitor.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/monitor.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -10671,26 +10671,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/monitor.c.o: /Users/hchap/dev/cpp_mandelbrot
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/nsgl_context.m \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h \
@@ -12096,26 +12096,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o: /Users/hchap/dev/cpp_mande
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/null_init.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_init.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -12926,26 +12926,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/null_init.c.o: /Users/hchap/dev/cpp_mandelbr
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_joystick.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -13756,26 +13756,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o: /Users/hchap/dev/cpp_mand
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_monitor.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -14586,26 +14586,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o: /Users/hchap/dev/cpp_mande
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/null_window.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_window.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -15416,26 +15416,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/null_window.c.o: /Users/hchap/dev/cpp_mandel
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/osmesa_context.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -16246,26 +16246,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o: /Users/hchap/dev/cpp_man
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/platform.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -17076,26 +17076,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/platform.c.o: /Users/hchap/dev/cpp_mandelbro
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_module.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -17907,26 +17907,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o: /Users/hchap/dev/cpp_mande
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -18737,26 +18737,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o: /Users/hchap/dev/cpp_mande
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/vulkan.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -19567,26 +19567,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o: /Users/hchap/dev/cpp_mandelbrot/
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/window.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h \
@@ -20397,26 +20397,26 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/null_platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/platform.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h
 
 
 /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/vulkan.c:
@@ -20451,19 +20451,19 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_monitor.m:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h:
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h:
 
 /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/posix_thread.h:
 
@@ -20615,8 +20615,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/net/net_kev.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_filesec_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/malloc/_malloc_type.h:
@@ -20668,8 +20666,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/processor_set.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/processor_info.h:
-
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/processor.h:
 
@@ -20726,6 +20722,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/clock_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/clock_priv.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/arm/vm_types.h:
 
@@ -20792,8 +20790,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/arm/signal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/arm/_mcontext.h:
-
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/libkern/OSAtomicDeprecated.h:
 
@@ -20968,8 +20964,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_symbol_aliasing.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLPixelFormat.h:
-
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLDefines.h:
 
@@ -21241,6 +21235,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h:
 
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSComparisonPredicate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCalendarDate.h:
@@ -21349,6 +21345,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/OSServices.framework/Headers/CSIdentity.h:
 
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/mach_traps.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/locale.h:
@@ -21372,6 +21370,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFUUID.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Headers/MDImporter.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSOpenDeprecated.h:
 
@@ -21769,6 +21769,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreData.framework/Headers/NSPersistentStoreDescription.h:
 
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreData.framework/Headers/NSPersistentStore.h:
@@ -21836,6 +21838,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDockTile.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreData.framework/Headers/NSManagedObject.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/os/object.h:
 
@@ -22111,8 +22115,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPersonNameComponents.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSLayoutManager.h:
@@ -22325,6 +22327,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/hidsystem/IOHIDUsageTables.h:
 
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_abort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAnimationContext.h:
@@ -22445,8 +22449,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextContent.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIVector.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextContainer.h:
@@ -22464,6 +22466,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDateInterval.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextAttachment.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPopover.h:
 
@@ -22625,6 +22629,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/Help.framework/Headers/Help.h:
 
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HITextLengthFilter.h:
@@ -22688,8 +22694,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSForm.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/CarbonEvents.h:
-
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRulerMarker.h:
 
@@ -22857,8 +22861,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATS.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/mig.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h:
@@ -22931,8 +22933,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSItemProvider.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFNumber.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMovie.h:
@@ -22946,8 +22946,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplicationScripting.h:
-
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTitlebarAccessoryViewController.h:
 
@@ -23017,8 +23015,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSGridView.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/SFNTTypes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSEvent.h:
@@ -23048,6 +23044,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceRef.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/DateTimeUtils.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGEXRToneMappingGamma.h:
 
@@ -23125,8 +23123,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TranslationExtensions.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/arm/_param.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSColorPicker.h:
@@ -23189,8 +23185,6 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSViewController.h:
 
-/opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/mach_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSButtonTouchBarItem.h:
@@ -23206,6 +23200,8 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCursor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAccessibilityCustomAction.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/mach/vm_statistics.h:
 
@@ -23252,6 +23248,10 @@ extern/glfw/src/CMakeFiles/glfw.dir/window.c.o: /Users/hchap/dev/cpp_mandelbrot/
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/HIMenuView.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFPage.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h:
+
+/opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
 

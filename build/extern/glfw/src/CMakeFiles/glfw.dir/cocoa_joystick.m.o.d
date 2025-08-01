@@ -2,15 +2,15 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/cocoa_joystick.m \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/internal.h \
   /Users/hchap/dev/cpp_mandelbrot/extern/glfw/src/../include/GLFW/glfw3.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stddef.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/stddef.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_ptrdiff_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_size_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_wchar_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_null.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stddef_offsetof.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdint.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_int8_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_int16_t.h \
@@ -104,13 +104,13 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_pthread/_pthread_key_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/__stdarg_va_copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_bounds.h \
@@ -125,9 +125,9 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_wint_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/errno.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/errno.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/float.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/float.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/machine/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/arm/limits.h \
@@ -177,10 +177,10 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/sys/_types/_timespec.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/inttypes.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/inttypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/inttypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/_inttypes.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/stdbool.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/stdbool.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFAvailability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/os/availability.h \
@@ -188,7 +188,7 @@ extern/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/Block.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/MacTypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/usr/include/ConditionalMacros.h \
-  /opt/homebrew/Cellar/llvm/20.1.4_1/lib/clang/20/include/ptrauth.h \
+  /opt/homebrew/Cellar/llvm/20.1.7/lib/clang/20/include/ptrauth.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBag.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBinaryHeap.h \
